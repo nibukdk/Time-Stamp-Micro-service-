@@ -1,0 +1,23 @@
+{
+  "name": "unix_time_stamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nibukdk/Time-Stamp-Micro-service-.git"
+  },
+  "author": "Nibesh Khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nibukdk/Time-Stamp-Micro-service-/issues"
+  },
+  "homepage": "https://github.com/nibukdk/Time-Stamp-Micro-service-#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express.js": "^1.0.0"
+  }
+}
